@@ -33,7 +33,9 @@ public class Driver {
     public Driver(){
     }
 
-    public Driver(String name, String address, int age, boolean isRoute, LocalTime startTime, LocalTime finishTime, String crnLocation) {
+    public Driver(String name, String address, int age, boolean isRoute,
+                  LocalTime startTime, LocalTime finishTime,
+                  String crnLocation) {
         this.name = name;
         this.address = address;
         this.age = age;
