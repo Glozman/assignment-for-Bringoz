@@ -2,7 +2,7 @@
 Drivers microservice service responsibility is to store, maintain and query driver’s data.
 
 ## Driver domain:
-A driver model should store the following data: personal information (such as name, age,
+A driver model store the following data: personal information (such as name, age,
 address), driver status, working hours and current location.
 
 ## Endpoints:
